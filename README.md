@@ -5,7 +5,7 @@ more channels.
 
 https://user-images.githubusercontent.com/55667998/211395878-8b261c76-ba7d-4d3f-b7b5-07cbd44efffd.mp4
 
-**Guide Outline**:
+**Guide Outline**:http://music.apple.com/us/album/wally-world/1638397262
 
 - [Included Workflows](#included-workflows)
 - [Setup](#setup)
